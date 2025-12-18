@@ -46,6 +46,9 @@ Grafana (Visualization & Monitoring)
 | PostgreSQL | 16.11 |
 | pgAdmin 4 | 9.10 |
 | Grafana | 12.2.2 |
+| PostgreSQL JDBC Driver | postgresql-42.7.7.jar |
+| Hadoop Winutils | 3.3.6 |
+| Git | 2.52 |
 
 ---
 
